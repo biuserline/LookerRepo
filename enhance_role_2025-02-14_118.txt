@@ -1,0 +1,1 @@
+Enhance role management for CI/CD (minor) - Implemented a new feature to enhance role management.
