@@ -1,0 +1,1 @@
+Resolve third-party authentication for security (efficient) - Implemented a new feature to enhance third-party authentication.
