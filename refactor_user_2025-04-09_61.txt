@@ -1,0 +1,1 @@
+Refactor user authentication for query (major) - Implemented a new feature to enhance user authentication.
