@@ -1,0 +1,1 @@
+Patch third-party authentication for error (minor)
