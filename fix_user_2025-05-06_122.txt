@@ -1,0 +1,1 @@
+Fix user input for synchronization (complex) - Implemented a new feature to enhance user input.
