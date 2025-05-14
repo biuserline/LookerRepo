@@ -1,0 +1,1 @@
+Add build pipeline for authentication (quick) - Implemented a new feature to enhance build pipeline.
