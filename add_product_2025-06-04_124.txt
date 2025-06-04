@@ -1,0 +1,1 @@
+Add product search for performance (critical) - Implemented a new feature to enhance product search.
