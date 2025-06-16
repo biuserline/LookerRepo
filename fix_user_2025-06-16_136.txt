@@ -1,0 +1,1 @@
+Fix user profile for session (complex) - Implemented a new feature to enhance user profile.
