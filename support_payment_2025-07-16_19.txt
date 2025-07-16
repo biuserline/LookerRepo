@@ -1,0 +1,1 @@
+Support payment gateway for middleware (minor) - Implemented a new feature to enhance payment gateway.
