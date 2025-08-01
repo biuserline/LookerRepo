@@ -1,0 +1,1 @@
+Remove feature toggle for branch (critical) - Implemented a new feature to enhance feature toggle.
