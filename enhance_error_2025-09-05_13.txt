@@ -1,0 +1,1 @@
+Enhance error handling for query (efficient)
