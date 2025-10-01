@@ -1,0 +1,1 @@
+Resolve UI components for rollback (minor) - Implemented a new feature to enhance UI components.
