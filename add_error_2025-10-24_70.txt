@@ -1,0 +1,1 @@
+Add error handling for middleware (legacy) - Implemented a new feature to enhance error handling.
