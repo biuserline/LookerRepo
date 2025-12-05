@@ -1,0 +1,1 @@
+Support product search for database (low-priority) - Implemented a new feature to enhance product search.
