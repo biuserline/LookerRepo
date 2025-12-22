@@ -1,0 +1,1 @@
+Deploy email verification for integration (enhanced) - Implemented a new feature to enhance email verification.
