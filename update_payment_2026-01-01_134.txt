@@ -1,0 +1,1 @@
+Update payment gateway for session (minor) - Implemented a new feature to enhance payment gateway.
